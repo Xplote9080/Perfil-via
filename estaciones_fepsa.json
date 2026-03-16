@@ -1,0 +1,2936 @@
+{
+  "31": [
+    {
+      "nombre": "Cruce FCGU - FCGSM",
+      "km": 46.5
+    },
+    {
+      "nombre": "Pilar",
+      "km": 55.4
+    },
+    {
+      "nombre": "Cruce a nivel FCSM / FCGU",
+      "km": 56.1
+    },
+    {
+      "nombre": "Manzanares",
+      "km": 64.8
+    },
+    {
+      "nombre": "Domingo Cabred",
+      "km": 72.3
+    },
+    {
+      "nombre": "Cortines",
+      "km": 86.5
+    },
+    {
+      "nombre": "Goldney",
+      "km": 95.5
+    },
+    {
+      "nombre": "Mercedes P",
+      "km": 110.6
+    },
+    {
+      "nombre": "Mercedes C",
+      "km": 111.8
+    },
+    {
+      "nombre": "San Jacinto",
+      "km": 120.8
+    },
+    {
+      "nombre": "Franklin",
+      "km": 131.9
+    },
+    {
+      "nombre": "Rivas",
+      "km": 142.9
+    },
+    {
+      "nombre": "Castilla",
+      "km": 156.4
+    },
+    {
+      "nombre": "Rawson",
+      "km": 172.0
+    },
+    {
+      "nombre": "Empalme Ramal a Arribeños",
+      "km": 172.436
+    },
+    {
+      "nombre": "San Patricio",
+      "km": 188.5
+    },
+    {
+      "nombre": "Cucha-Cucha",
+      "km": 203.3
+    },
+    {
+      "nombre": "Chacabuco",
+      "km": 209.1
+    },
+    {
+      "nombre": "Empalme Ramal a Huinca Renanco",
+      "km": 210.666
+    },
+    {
+      "nombre": "Membrillar",
+      "km": 223.2
+    }
+  ],
+  "32": [
+    {
+      "nombre": "O'Higgins",
+      "km": 231.5
+    },
+    {
+      "nombre": "La Oriental",
+      "km": 242.2
+    },
+    {
+      "nombre": "Empalme a Pergamino",
+      "km": 252.7
+    },
+    {
+      "nombre": "Junín",
+      "km": 254.9
+    },
+    {
+      "nombre": "Desvío Nidera",
+      "km": 261.0
+    },
+    {
+      "nombre": "Empalme Ramal a Santa Isabel",
+      "km": 267.823
+    },
+    {
+      "nombre": "Las Parvas",
+      "km": 271.0
+    },
+    {
+      "nombre": "Blandengues",
+      "km": 283.5
+    },
+    {
+      "nombre": "Alem",
+      "km": 296.4
+    },
+    {
+      "nombre": "Vedia",
+      "km": 310.4
+    },
+    {
+      "nombre": "E. B. Perkins",
+      "km": 322.4
+    },
+    {
+      "nombre": "Iriarte",
+      "km": 347.1
+    },
+    {
+      "nombre": "Diego de Alvear",
+      "km": 366.1
+    },
+    {
+      "nombre": "Aarón Castellanos",
+      "km": 389.1
+    },
+    {
+      "nombre": "Coronel Roseti",
+      "km": 405.1
+    },
+    {
+      "nombre": "Empalme Ramal a Venado Tuerto",
+      "km": 420.48
+    }
+  ],
+  "33": [
+    {
+      "nombre": "Rufino",
+      "km": 421.1
+    },
+    {
+      "nombre": "Empalme Ramal a Hipólito Buchard",
+      "km": 421.5
+    },
+    {
+      "nombre": "Empalme Ramal a La Carlota",
+      "km": 421.63
+    },
+    {
+      "nombre": "Vivero",
+      "km": 432.9
+    },
+    {
+      "nombre": "Leguizamon",
+      "km": 446.3
+    },
+    {
+      "nombre": "Salas",
+      "km": 455.0
+    },
+    {
+      "nombre": "Rosales",
+      "km": 463.1
+    },
+    {
+      "nombre": "Marca de posición sin título",
+      "km": 463.1
+    },
+    {
+      "nombre": "Laboulaye",
+      "km": 485.3
+    },
+    {
+      "nombre": "Empalme a Villa Valeria",
+      "km": 486.0
+    },
+    {
+      "nombre": "Guardia Vieja",
+      "km": 497.1
+    },
+    {
+      "nombre": "Curapaligüé",
+      "km": 506.8
+    },
+    {
+      "nombre": "Rio Bamba",
+      "km": 518.0
+    },
+    {
+      "nombre": "General Levalle",
+      "km": 536.4
+    },
+    {
+      "nombre": "La Cautiva",
+      "km": 551.7
+    },
+    {
+      "nombre": "General Soler",
+      "km": 566.9
+    },
+    {
+      "nombre": "Vicuña Mackenna",
+      "km": 580.7
+    },
+    {
+      "nombre": "Empalme a Sampacho",
+      "km": 581.3
+    },
+    {
+      "nombre": "Pretot Freyre",
+      "km": 594.0
+    },
+    {
+      "nombre": "Washington",
+      "km": 608.9
+    },
+    {
+      "nombre": "Laguna Oscura",
+      "km": 624.4
+    },
+    {
+      "nombre": "Paunero",
+      "km": 640.0
+    }
+  ],
+  "34": [
+    {
+      "nombre": "Paradero",
+      "km": 656.0
+    },
+    {
+      "nombre": "Avanzada",
+      "km": 657.8
+    },
+    {
+      "nombre": "Cabin Avanzada",
+      "km": 658.7
+    },
+    {
+      "nombre": "Empalme a San Luis",
+      "km": 658.7
+    },
+    {
+      "nombre": "Rio Quinto",
+      "km": 664.9
+    },
+    {
+      "nombre": "Lavaisse",
+      "km": 679.6
+    },
+    {
+      "nombre": "Las Isletas",
+      "km": 691.2
+    },
+    {
+      "nombre": "Nueva Escocia",
+      "km": 707.0
+    },
+    {
+      "nombre": "Paradero Caldenadas",
+      "km": 717.3
+    },
+    {
+      "nombre": "Chalanta",
+      "km": 732.3
+    },
+    {
+      "nombre": "Travesia",
+      "km": 745.8
+    },
+    {
+      "nombre": "Alto Pelado",
+      "km": 754.8
+    },
+    {
+      "nombre": "Límite Auxilio",
+      "km": 756.4
+    },
+    {
+      "nombre": "Paradero Huejeda",
+      "km": 761.8
+    },
+    {
+      "nombre": "Desvío Chischaca",
+      "km": 767.1
+    },
+    {
+      "nombre": "La Seña",
+      "km": 777.3
+    },
+    {
+      "nombre": "Cazador",
+      "km": 786.5
+    },
+    {
+      "nombre": "Zanjitas",
+      "km": 795.7
+    },
+    {
+      "nombre": "Paradero La Costa",
+      "km": 806.6
+    },
+    {
+      "nombre": "Beazley",
+      "km": 820.9
+    }
+  ],
+  "35": [
+    {
+      "nombre": "Beazley",
+      "km": 821.8
+    },
+    {
+      "nombre": "Gorgonta",
+      "km": 831.2
+    },
+    {
+      "nombre": "Donado",
+      "km": 846.5
+    },
+    {
+      "nombre": "Masmota",
+      "km": 863.0
+    },
+    {
+      "nombre": "Puente río Desaguadero",
+      "km": 869.2
+    },
+    {
+      "nombre": "Maquinista Levet",
+      "km": 878.2
+    },
+    {
+      "nombre": "Cadetes de Chile",
+      "km": 893.0
+    },
+    {
+      "nombre": "Pirquita",
+      "km": 909.2
+    },
+    {
+      "nombre": "Empalme a San Luis",
+      "km": 922.0
+    },
+    {
+      "nombre": "La Paz",
+      "km": 923.1
+    },
+    {
+      "nombre": "La Dormida",
+      "km": 959.1
+    },
+    {
+      "nombre": "Gobernador Civit",
+      "km": 964.9
+    },
+    {
+      "nombre": "José N. Lencinas",
+      "km": 972.4
+    },
+    {
+      "nombre": "Empalme a Guadales",
+      "km": 972.4
+    },
+    {
+      "nombre": "Santa Rosa",
+      "km": 983.8
+    },
+    {
+      "nombre": "Empalme a Circuito Rivadavia",
+      "km": 1005.5
+    },
+    {
+      "nombre": "Alto Verde",
+      "km": 1005.8
+    }
+  ],
+  "36": [
+    {
+      "nombre": "Paradero",
+      "km": 2.719
+    },
+    {
+      "nombre": "Ing. Giagnoni",
+      "km": 1012.0
+    },
+    {
+      "nombre": "Libertador San Martín",
+      "km": 1019.2
+    },
+    {
+      "nombre": "Empalme a Circuito Rivadavia",
+      "km": 1027.8
+    },
+    {
+      "nombre": "Palmira",
+      "km": 1028.5
+    },
+    {
+      "nombre": "Puente Río Mendoza",
+      "km": 1028.807
+    },
+    {
+      "nombre": "Barcala",
+      "km": 1032.4
+    },
+    {
+      "nombre": "Fray Luis Beltran",
+      "km": 1037.9
+    },
+    {
+      "nombre": "Empalme Circuito Guaymallén",
+      "km": 1038.168
+    },
+    {
+      "nombre": "Rodeo del Medio",
+      "km": 1041.5
+    },
+    {
+      "nombre": "Cabín Coquimbito",
+      "km": 1047.666
+    },
+    {
+      "nombre": "Coquimbito",
+      "km": 1047.8
+    },
+    {
+      "nombre": "Cabin Gutierrez Este",
+      "km": 1050.4
+    },
+    {
+      "nombre": "Desvio",
+      "km": 1050.538
+    },
+    {
+      "nombre": "Gutierrez",
+      "km": 1051.3
+    },
+    {
+      "nombre": "Bodega Giol",
+      "km": 1051.336
+    },
+    {
+      "nombre": "Desvío",
+      "km": 1051.336
+    },
+    {
+      "nombre": "Cabín Gutierrez Oeste",
+      "km": 1051.336
+    },
+    {
+      "nombre": "Gutiérrez",
+      "km": 1051.336
+    },
+    {
+      "nombre": "Parador Maza",
+      "km": 1052.209
+    },
+    {
+      "nombre": "Puente bajo FC Belgrano",
+      "km": 1052.37
+    },
+    {
+      "nombre": "Parador Alta Italia",
+      "km": 1052.62
+    },
+    {
+      "nombre": "Parador Piedra Buena",
+      "km": 1053.188
+    },
+    {
+      "nombre": "Luzuriaga",
+      "km": 1053.666
+    },
+    {
+      "nombre": "Parador 9 de Julio",
+      "km": 1054.759
+    },
+    {
+      "nombre": "Parador Independencia",
+      "km": 1056.784
+    },
+    {
+      "nombre": "S.A.V.Y.A.",
+      "km": 1057.116
+    },
+    {
+      "nombre": "Parador Progreso",
+      "km": 1057.116
+    },
+    {
+      "nombre": "Godoy Cruz Cargas",
+      "km": 1058.145
+    },
+    {
+      "nombre": "La Serenisima",
+      "km": 1058.145
+    },
+    {
+      "nombre": "Godoy Cruz",
+      "km": 1058.304
+    },
+    {
+      "nombre": "Bodega El Globo",
+      "km": 1058.49
+    },
+    {
+      "nombre": "Bodega Escorihuela",
+      "km": 1059.183
+    },
+    {
+      "nombre": "Bodega Arizu",
+      "km": 1059.183
+    },
+    {
+      "nombre": "Parador San Martín",
+      "km": 1059.183
+    },
+    {
+      "nombre": "Nodo de Transferencia",
+      "km": 1059.912
+    },
+    {
+      "nombre": "Calle Tucumán",
+      "km": 1060.0
+    },
+    {
+      "nombre": "Parador Pellegrini",
+      "km": 1060.012
+    },
+    {
+      "nombre": "Parador 25 de Mayo",
+      "km": 1060.533
+    },
+    {
+      "nombre": "Empalme Trasandino",
+      "km": 1061.1
+    },
+    {
+      "nombre": "Mendoza T",
+      "km": 1061.234
+    },
+    {
+      "nombre": "Parador Peltier",
+      "km": 1061.234
+    },
+    {
+      "nombre": "Empalme GOA / FCT",
+      "km": 1061.7
+    },
+    {
+      "nombre": "Parador Belgrano",
+      "km": 1062.413
+    },
+    {
+      "nombre": "Mendoza Pasajeros",
+      "km": 1063.0
+    },
+    {
+      "nombre": "Talleres Diesel Mendoza",
+      "km": 1063.0
+    },
+    {
+      "nombre": "Talleres Diesel Mendoza Pintura",
+      "km": 1063.0
+    },
+    {
+      "nombre": "Mendoza Pasajeros Cocheras",
+      "km": 1063.0
+    },
+    {
+      "nombre": "Mendoza Pasajeros Lavadero y Carga/Descarga de Automotores",
+      "km": 1063.0
+    },
+    {
+      "nombre": "Mendoza",
+      "km": 1063.0
+    },
+    {
+      "nombre": "Canota",
+      "km": 1079.3
+    }
+  ],
+  "52": [
+    {
+      "nombre": "Empalme a Rufino",
+      "km": 293.0
+    },
+    {
+      "nombre": "Paradero Burmeister",
+      "km": 300.2
+    },
+    {
+      "nombre": "Onagoity",
+      "km": 308.6
+    },
+    {
+      "nombre": "Italó",
+      "km": 318.8
+    },
+    {
+      "nombre": "Pincén",
+      "km": 333.0
+    },
+    {
+      "nombre": "Ranqueles",
+      "km": 349.8
+    },
+    {
+      "nombre": "Huinca Renanco",
+      "km": 374.3
+    }
+  ],
+  "53": [
+    {
+      "nombre": "Cañada Verde",
+      "km": 394.4
+    },
+    {
+      "nombre": "Empalme a Justo Daract",
+      "km": 394.79
+    }
+  ],
+  "54": [
+    {
+      "nombre": "Paradero",
+      "km": 16.0
+    },
+    {
+      "nombre": "Cañada Seca",
+      "km": 29.6
+    },
+    {
+      "nombre": "Santa Regina",
+      "km": 54.0
+    },
+    {
+      "nombre": "Carlone",
+      "km": 77.0
+    },
+    {
+      "nombre": "Hipólito Buchardo",
+      "km": 292.7
+    }
+  ],
+  "59": [
+    {
+      "nombre": "Paradero Larsen",
+      "km": 8.2
+    },
+    {
+      "nombre": "Villa Moderna",
+      "km": 15.0
+    },
+    {
+      "nombre": "Lecueder",
+      "km": 44.7
+    },
+    {
+      "nombre": "Empalme a Laboulaye",
+      "km": 64.17
+    },
+    {
+      "nombre": "Villa Valeria",
+      "km": 64.5
+    },
+    {
+      "nombre": "Paradero El Pampero",
+      "km": 79.819
+    },
+    {
+      "nombre": "Modestino Pizarro",
+      "km": 94.0
+    },
+    {
+      "nombre": "Empalme a Cañada Verde",
+      "km": 654.16
+    },
+    {
+      "nombre": "Justo Daract",
+      "km": 654.4
+    }
+  ],
+  "62": [
+    {
+      "nombre": "Pedernera",
+      "km": 667.9
+    },
+    {
+      "nombre": "Empalme a Bertrand",
+      "km": 679.56
+    },
+    {
+      "nombre": "Cramer",
+      "km": 679.9
+    },
+    {
+      "nombre": "Empalme a Sampacho",
+      "km": 689.0
+    },
+    {
+      "nombre": "Villa Mercedes (Buenos Aires al Pacífico)",
+      "km": 689.65
+    },
+    {
+      "nombre": "Empalme BAP / Andino",
+      "km": 689.873
+    },
+    {
+      "nombre": "Villa Mercedes",
+      "km": 690.3
+    }
+  ],
+  "73": [
+    {
+      "nombre": "Empalme FCDFS",
+      "km": 99.002
+    },
+    {
+      "nombre": "Manuel J. García",
+      "km": 109.9
+    },
+    {
+      "nombre": "Suipacha",
+      "km": 125.3
+    },
+    {
+      "nombre": "Gorostiaga",
+      "km": 142.3
+    }
+  ],
+  "74": [
+    {
+      "nombre": "Emp. a Chivilcoy",
+      "km": 151.1
+    },
+    {
+      "nombre": "Chivilcoy Sud",
+      "km": 157.9
+    },
+    {
+      "nombre": "Benítez",
+      "km": 171.3
+    },
+    {
+      "nombre": "Andrés Vaccareza",
+      "km": 186.7
+    },
+    {
+      "nombre": "Larrea",
+      "km": 195.3
+    },
+    {
+      "nombre": "Mechita",
+      "km": 199.3
+    },
+    {
+      "nombre": "Depósito Locomotoras Mechita",
+      "km": 199.9
+    },
+    {
+      "nombre": "Mecha",
+      "km": 201.4
+    },
+    {
+      "nombre": "Cabina KM 204",
+      "km": 204.0
+    },
+    {
+      "nombre": "Bragado",
+      "km": 208.7
+    },
+    {
+      "nombre": "La Limpia",
+      "km": 221.3
+    },
+    {
+      "nombre": "Máximo Fernández",
+      "km": 231.9
+    },
+    {
+      "nombre": "San Emilio",
+      "km": 247.1
+    },
+    {
+      "nombre": "Los Toldos",
+      "km": 262.4
+    },
+    {
+      "nombre": "La Delfina",
+      "km": 276.4
+    },
+    {
+      "nombre": "Bayauca",
+      "km": 278.8
+    },
+    {
+      "nombre": "Lincoln",
+      "km": 312.5
+    }
+  ],
+  "ABP": [
+    {
+      "nombre": "Retiro",
+      "km": 1.075
+    },
+    {
+      "nombre": "Empalme Maldonado",
+      "km": 4.6
+    },
+    {
+      "nombre": "3 de Febrero",
+      "km": 6.7
+    },
+    {
+      "nombre": "Colegiales",
+      "km": 9.1
+    },
+    {
+      "nombre": "Empalme Coghlan",
+      "km": 11.3
+    },
+    {
+      "nombre": "Coghlan",
+      "km": 11.6
+    },
+    {
+      "nombre": "Drago",
+      "km": 12.0
+    },
+    {
+      "nombre": "Villa Urquiza",
+      "km": 13.2
+    },
+    {
+      "nombre": "Pueyrredón",
+      "km": 14.6
+    },
+    {
+      "nombre": "Kilómetro 16",
+      "km": 15.8
+    },
+    {
+      "nombre": "Parada Miguelete",
+      "km": 16.0
+    },
+    {
+      "nombre": "San Martín",
+      "km": 17.7
+    },
+    {
+      "nombre": "San Andrés",
+      "km": 18.9
+    },
+    {
+      "nombre": "Malaver",
+      "km": 19.9
+    },
+    {
+      "nombre": "Villa Ballester",
+      "km": 21.9
+    },
+    {
+      "nombre": "Chilavert",
+      "km": 22.4
+    },
+    {
+      "nombre": "José León Suárez",
+      "km": 23.6
+    }
+  ],
+  "AC": [
+    {
+      "nombre": "Estela",
+      "km": 115.4
+    },
+    {
+      "nombre": "Villa Iris",
+      "km": 121.4
+    },
+    {
+      "nombre": "Rivadeo",
+      "km": 128.4
+    }
+  ],
+  "ADP": [
+    {
+      "nombre": "Bancalari",
+      "km": 30.2
+    },
+    {
+      "nombre": "Empalme con FCGBM Ramal a Pergamino",
+      "km": 30.4
+    },
+    {
+      "nombre": "Cruce con FCGBM Ramal a Pergamino",
+      "km": 30.85
+    },
+    {
+      "nombre": "Empalme Bancalari C",
+      "km": 31.5
+    },
+    {
+      "nombre": "General Pacheco",
+      "km": 33.3
+    },
+    {
+      "nombre": "Benavidez",
+      "km": 41.2
+    },
+    {
+      "nombre": "Ingeniero Maschwitz",
+      "km": 46.8
+    },
+    {
+      "nombre": "Escobar",
+      "km": 53.4
+    },
+    {
+      "nombre": "Río Luján",
+      "km": 65.5
+    },
+    {
+      "nombre": "Ingeniero Otamendi",
+      "km": 71.7
+    },
+    {
+      "nombre": "Campana",
+      "km": 81.3
+    }
+  ],
+  "AFP": [
+    {
+      "nombre": "Retiro N",
+      "km": -0.019
+    },
+    {
+      "nombre": "Retiro Pasajeros FCGSM",
+      "km": -0.019
+    },
+    {
+      "nombre": "Puente Pacífico",
+      "km": 6.208
+    },
+    {
+      "nombre": "Palermo",
+      "km": 6.3
+    },
+    {
+      "nombre": "Empalme Córdoba",
+      "km": 7.7
+    },
+    {
+      "nombre": "Chacarita",
+      "km": 8.8
+    },
+    {
+      "nombre": "La Paternal",
+      "km": 10.7
+    },
+    {
+      "nombre": "Villa del Parque",
+      "km": 13.3
+    },
+    {
+      "nombre": "Devoto",
+      "km": 15.0
+    },
+    {
+      "nombre": "Saenz Peña",
+      "km": 16.4
+    },
+    {
+      "nombre": "Santo Lugares",
+      "km": 17.0
+    },
+    {
+      "nombre": "Patio Alianza",
+      "km": 17.6
+    },
+    {
+      "nombre": "Caseros",
+      "km": 19.7
+    },
+    {
+      "nombre": "El Palomar",
+      "km": 22.6
+    },
+    {
+      "nombre": "Hurlingham",
+      "km": 26.4
+    },
+    {
+      "nombre": "William C. Morris",
+      "km": 29.0
+    },
+    {
+      "nombre": "Bella Vista",
+      "km": 32.1
+    },
+    {
+      "nombre": "Muñiz",
+      "km": 34.3
+    },
+    {
+      "nombre": "San Miguel",
+      "km": 35.5
+    },
+    {
+      "nombre": "Jose C. Paz",
+      "km": 40.0
+    },
+    {
+      "nombre": "Sol Y Verde",
+      "km": 45.1
+    },
+    {
+      "nombre": "Presidente Derqui",
+      "km": 48.6
+    },
+    {
+      "nombre": "Villa Astolfi",
+      "km": 52.35
+    },
+    {
+      "nombre": "Pilar",
+      "km": 55.4
+    }
+  ],
+  "AIP": [
+    {
+      "nombre": "Moreno",
+      "km": 36.4
+    },
+    {
+      "nombre": "La Reja",
+      "km": 40.1
+    },
+    {
+      "nombre": "Francisco Álvarez",
+      "km": 42.7
+    },
+    {
+      "nombre": "Luján",
+      "km": 45.7
+    },
+    {
+      "nombre": "Las Malvinas",
+      "km": 49.1
+    },
+    {
+      "nombre": "General Rodríguez",
+      "km": 52.1
+    },
+    {
+      "nombre": "La Fraternidad",
+      "km": 56.3
+    },
+    {
+      "nombre": "Lezica y Torrezuri",
+      "km": 62.0
+    },
+    {
+      "nombre": "Jáuregui",
+      "km": 73.3
+    },
+    {
+      "nombre": "Olivera",
+      "km": 81.4
+    },
+    {
+      "nombre": "Gowland",
+      "km": 90.7
+    },
+    {
+      "nombre": "Mercedes",
+      "km": 98.1
+    },
+    {
+      "nombre": "Luis Agote",
+      "km": 103.2
+    }
+  ],
+  "AP": [
+    {
+      "nombre": "Empalme Tablada",
+      "km": 1.2
+    },
+    {
+      "nombre": "Coronel Maldonado",
+      "km": 6.7
+    },
+    {
+      "nombre": "Villa Olga",
+      "km": 13.6
+    },
+    {
+      "nombre": "Alférez San Martin",
+      "km": 27.6
+    },
+    {
+      "nombre": "Nueva Roma",
+      "km": 42.3
+    },
+    {
+      "nombre": "Chasicó",
+      "km": 67.0
+    },
+    {
+      "nombre": "Pelicurá",
+      "km": 87.4
+    },
+    {
+      "nombre": "López Lecube",
+      "km": 96.5
+    },
+    {
+      "nombre": "Empalme Piedra Echada",
+      "km": 102.9
+    },
+    {
+      "nombre": "Felipe Solá",
+      "km": 111.9
+    },
+    {
+      "nombre": "17 de Agosto",
+      "km": 127.1
+    },
+    {
+      "nombre": "Bordenave",
+      "km": 142.1
+    },
+    {
+      "nombre": "Darregueira",
+      "km": 159.4
+    }
+  ],
+  "BA": [
+    {
+      "nombre": "C. Mariano",
+      "km": 162.8
+    },
+    {
+      "nombre": "Guatraché",
+      "km": 195.6
+    },
+    {
+      "nombre": "General Mauel Campos",
+      "km": 220.9
+    },
+    {
+      "nombre": "Apuyaco",
+      "km": 235.4
+    },
+    {
+      "nombre": "Alpachiri",
+      "km": 245.3
+    }
+  ],
+  "BARIL": [
+    {
+      "nombre": "Desvío Kilómetro 4",
+      "km": 918.5
+    },
+    {
+      "nombre": "Viedma",
+      "km": 921.7
+    },
+    {
+      "nombre": "General Nicolás Palacios",
+      "km": 958.5
+    },
+    {
+      "nombre": "General Liborio Bernal",
+      "km": 984.1
+    },
+    {
+      "nombre": "Vicealmirante Eduardo O'Connor",
+      "km": 1002.6
+    },
+    {
+      "nombre": "Nuevo Leon",
+      "km": 1035.1
+    },
+    {
+      "nombre": "General Vintter",
+      "km": 1054.1
+    },
+    {
+      "nombre": "Empalme Dr. Rogelio Cortizo",
+      "km": 1105.4
+    },
+    {
+      "nombre": "San Antonio Oeste",
+      "km": 1111.3
+    },
+    {
+      "nombre": "Puerto San Antonio Oeste",
+      "km": 1113.6
+    },
+    {
+      "nombre": "Cinco Chañares",
+      "km": 1122.9
+    },
+    {
+      "nombre": "Mancha Blanca",
+      "km": 1143.2
+    },
+    {
+      "nombre": "Perey H. Scott",
+      "km": 1162.2
+    },
+    {
+      "nombre": "Aguada Cecilio",
+      "km": 1178.2
+    },
+    {
+      "nombre": "Apeadero Pajalta",
+      "km": 1197.7
+    },
+    {
+      "nombre": "Valcheta",
+      "km": 1210.1
+    },
+    {
+      "nombre": "Kilómetro 298 Bomba",
+      "km": 1212.2
+    },
+    {
+      "nombre": "Musters",
+      "km": 1235.3
+    },
+    {
+      "nombre": "Nahuel Niyeu",
+      "km": 1254.3
+    },
+    {
+      "nombre": "Teniente Maza",
+      "km": 1272.6
+    },
+    {
+      "nombre": "Falkner",
+      "km": 1296.1
+    },
+    {
+      "nombre": "Ministro Ramos Mexia",
+      "km": 1316.2
+    },
+    {
+      "nombre": "Apeadero Talcahuala",
+      "km": 1339.4
+    },
+    {
+      "nombre": "Sierra Colorada",
+      "km": 1359.4
+    },
+    {
+      "nombre": "Apeadero Ganzu Lauquén",
+      "km": 1390.1
+    },
+    {
+      "nombre": "Los Menucos",
+      "km": 1404.9
+    },
+    {
+      "nombre": "Apeadero Cerro Abanico",
+      "km": 1425.2
+    },
+    {
+      "nombre": "Aguada de Guerra",
+      "km": 1440.1
+    },
+    {
+      "nombre": "Maquinchao",
+      "km": 1475.2
+    },
+    {
+      "nombre": "Desvío Kilómetro 566",
+      "km": 1480.1
+    },
+    {
+      "nombre": "Desvío Los Juncos",
+      "km": 1516.6
+    },
+    {
+      "nombre": "Ingeniero Jacobacci",
+      "km": 1547.2
+    },
+    {
+      "nombre": "Clemente Onelli",
+      "km": 1597.3
+    },
+    {
+      "nombre": "Apeadero Ingeniero Z. Resta",
+      "km": 1615.7
+    },
+    {
+      "nombre": "Comallo",
+      "km": 1633.2
+    },
+    {
+      "nombre": "Neneo Rucá",
+      "km": 1650.9
+    },
+    {
+      "nombre": "Pilcaniyeu",
+      "km": 1681.1
+    },
+    {
+      "nombre": "Apeadero Pichi-Leufú",
+      "km": 1692.9
+    },
+    {
+      "nombre": "Perito Moreno",
+      "km": 1711.4
+    },
+    {
+      "nombre": "Nirihuau",
+      "km": 1726.7
+    },
+    {
+      "nombre": "San Carlos de Bariloche",
+      "km": 1741.2
+    }
+  ],
+  "BB": [
+    {
+      "nombre": "Remecó",
+      "km": 209.1
+    }
+  ],
+  "BC": [
+    {
+      "nombre": "Rivera",
+      "km": 220.9
+    },
+    {
+      "nombre": "Rolón",
+      "km": 234.1
+    },
+    {
+      "nombre": "Hidalgo",
+      "km": 245.7
+    },
+    {
+      "nombre": "Macachín",
+      "km": 258.0
+    },
+    {
+      "nombre": "Atreuco",
+      "km": 272.0
+    }
+  ],
+  "BD": [
+    {
+      "nombre": "Leubucó",
+      "km": 258.2
+    }
+  ],
+  "BF": [
+    {
+      "nombre": "Tomás M. Anchorena",
+      "km": 280.3
+    },
+    {
+      "nombre": "Cereales",
+      "km": 311.8
+    }
+  ],
+  "BG": [
+    {
+      "nombre": "La Gloria",
+      "km": 553.5
+    },
+    {
+      "nombre": "Uriburu",
+      "km": 563.9
+    },
+    {
+      "nombre": "Anguil",
+      "km": 577.8
+    },
+    {
+      "nombre": "Santa Rosa",
+      "km": 605.0
+    },
+    {
+      "nombre": "Toay",
+      "km": 615.0
+    }
+  ],
+  "BP": [
+    {
+      "nombre": "Canónigo Gorriti",
+      "km": 176.7
+    },
+    {
+      "nombre": "Esteban Agustín Gascón",
+      "km": 187.1
+    },
+    {
+      "nombre": "Delfín Huergo",
+      "km": 202.5
+    },
+    {
+      "nombre": "Arano",
+      "km": 233.6
+    },
+    {
+      "nombre": "Thames",
+      "km": 247.4
+    },
+    {
+      "nombre": "Maza",
+      "km": 261.8
+    },
+    {
+      "nombre": "Francisco Murature",
+      "km": 275.0
+    },
+    {
+      "nombre": "Ivanowsky",
+      "km": 290.5
+    },
+    {
+      "nombre": "Catriló",
+      "km": 522.8
+    }
+  ],
+  "C2": [
+    {
+      "nombre": "Empalme con RPB",
+      "km": 489.15
+    }
+  ],
+  "CA": [
+    {
+      "nombre": "Cargill Pehuajó",
+      "km": 366.243
+    },
+    {
+      "nombre": "Francisco Madero",
+      "km": 379.5
+    },
+    {
+      "nombre": "Berruti",
+      "km": 419.5
+    },
+    {
+      "nombre": "Primera Junta",
+      "km": 432.7
+    },
+    {
+      "nombre": "Trenque Lauquen",
+      "km": 443.2
+    },
+    {
+      "nombre": "Cargill Trenque Lauquen",
+      "km": 446.0
+    },
+    {
+      "nombre": "La Zanja",
+      "km": 459.2
+    },
+    {
+      "nombre": "Mari Lauquen",
+      "km": 471.6
+    },
+    {
+      "nombre": "Bocayuva",
+      "km": 484.2
+    },
+    {
+      "nombre": "Pellegrini",
+      "km": 494.3
+    },
+    {
+      "nombre": "De Bary",
+      "km": 506.4
+    }
+  ],
+  "CD": [
+    {
+      "nombre": "Metileo",
+      "km": 545.3
+    },
+    {
+      "nombre": "Monte Nievas",
+      "km": 566.8
+    },
+    {
+      "nombre": "Eduardo Castex",
+      "km": 581.0
+    },
+    {
+      "nombre": "Conhello",
+      "km": 610.0
+    },
+    {
+      "nombre": "Desvío",
+      "km": 619.0
+    },
+    {
+      "nombre": "Rucanelo",
+      "km": 633.3
+    },
+    {
+      "nombre": "Teniente Gral. Emilio Mitre",
+      "km": 647.2
+    },
+    {
+      "nombre": "Luan Taro",
+      "km": 664.1
+    },
+    {
+      "nombre": "Loventuel",
+      "km": 681.4
+    },
+    {
+      "nombre": "Victorica",
+      "km": 695.8
+    },
+    {
+      "nombre": "Telen",
+      "km": 704.1
+    }
+  ],
+  "CF": [
+    {
+      "nombre": "El Tejar",
+      "km": 266.8
+    },
+    {
+      "nombre": "Ramón J. Neild",
+      "km": 284.0
+    },
+    {
+      "nombre": "Quiroga",
+      "km": 302.5
+    },
+    {
+      "nombre": "Las Toscas",
+      "km": 336.9
+    },
+    {
+      "nombre": "Carlos Salas",
+      "km": 357.1
+    },
+    {
+      "nombre": "Timote",
+      "km": 379.3
+    },
+    {
+      "nombre": "Colonia Seré",
+      "km": 426.3
+    },
+    {
+      "nombre": "América",
+      "km": 449.5
+    },
+    {
+      "nombre": "González Moreno",
+      "km": 487.0
+    },
+    {
+      "nombre": "Trebolares",
+      "km": 506.3
+    }
+  ],
+  "CGOM": [
+    {
+      "nombre": "Rosario Central",
+      "km": 0.391
+    },
+    {
+      "nombre": "Rosario Norte",
+      "km": 1.8
+    },
+    {
+      "nombre": "D.A.D.E.R. - Depósito Alistamiento Diesel-Eléctrico Rosario",
+      "km": 3.169
+    },
+    {
+      "nombre": "Talleres Rosario",
+      "km": 3.245
+    },
+    {
+      "nombre": "Apeadero Cruce Alberdi",
+      "km": 3.3
+    },
+    {
+      "nombre": "Rosario Parada",
+      "km": 4.1
+    },
+    {
+      "nombre": "Intercambio FCCA / FCSF",
+      "km": 4.791
+    },
+    {
+      "nombre": "Cruce CC / FCGBM",
+      "km": 303.3
+    },
+    {
+      "nombre": "Ludueña",
+      "km": 304.3
+    },
+    {
+      "nombre": "Cruce FCGB Casilla 8",
+      "km": 304.9
+    }
+  ],
+  "CH": [
+    {
+      "nombre": "Roberts",
+      "km": 351.0
+    }
+  ],
+  "CHAV": [
+    {
+      "nombre": "Tandil",
+      "km": 330.3
+    },
+    {
+      "nombre": "Empalme Movediza",
+      "km": 332.1
+    },
+    {
+      "nombre": "Empalme Cerro Chato",
+      "km": 334.6
+    },
+    {
+      "nombre": "Gardey",
+      "km": 356.0
+    },
+    {
+      "nombre": "Vela",
+      "km": 375.4
+    },
+    {
+      "nombre": "López",
+      "km": 395.2
+    },
+    {
+      "nombre": "Benito Juarez",
+      "km": 415.8
+    },
+    {
+      "nombre": "Alzaga",
+      "km": 441.9
+    },
+    {
+      "nombre": "Gonzalez Chaves",
+      "km": 463.8
+    },
+    {
+      "nombre": "Vasquez",
+      "km": 481.9
+    }
+  ],
+  "CI": [
+    {
+      "nombre": "Alta Italia",
+      "km": 554.8
+    },
+    {
+      "nombre": "Embajador Martini",
+      "km": 571.3
+    },
+    {
+      "nombre": "Ingeniero Luiggi",
+      "km": 588.0
+    }
+  ],
+  "CJ": [
+    {
+      "nombre": "Chancay",
+      "km": 283.9
+    },
+    {
+      "nombre": "El Triunfo",
+      "km": 308.3
+    },
+    {
+      "nombre": "Fortín Vigilancia",
+      "km": 323.1
+    },
+    {
+      "nombre": "Cuenca",
+      "km": 426.5
+    },
+    {
+      "nombre": "Cruce FCGB (G4) - FCDFS a Ingeniero Luiggi",
+      "km": 427.053
+    },
+    {
+      "nombre": "Pradere",
+      "km": 442.8
+    },
+    {
+      "nombre": "Condarco",
+      "km": 456.6
+    },
+    {
+      "nombre": "Sansinena",
+      "km": 469.2
+    },
+    {
+      "nombre": "Villa Sauze",
+      "km": 483.4
+    },
+    {
+      "nombre": "Intendente Alvear",
+      "km": 503.8
+    },
+    {
+      "nombre": "Ojeda",
+      "km": 543.2
+    }
+  ],
+  "CK": [
+    {
+      "nombre": "Simson",
+      "km": 584.0
+    },
+    {
+      "nombre": "Rancul",
+      "km": 611.4
+    },
+    {
+      "nombre": "Chamaicó",
+      "km": 635.9
+    }
+  ],
+  "CL": [
+    {
+      "nombre": "Balsa",
+      "km": 326.6
+    },
+    {
+      "nombre": "Dussaud",
+      "km": 337.7
+    },
+    {
+      "nombre": "General Pinto",
+      "km": 348.5
+    },
+    {
+      "nombre": "Pazos Kanki",
+      "km": 364.1
+    },
+    {
+      "nombre": "Coronel Granada",
+      "km": 377.3
+    },
+    {
+      "nombre": "Eduardo Costa",
+      "km": 389.8
+    },
+    {
+      "nombre": "Ameghino",
+      "km": 402.4
+    },
+    {
+      "nombre": "Volta",
+      "km": 418.4
+    },
+    {
+      "nombre": "Drabble",
+      "km": 430.5
+    },
+    {
+      "nombre": "Moores",
+      "km": 444.6
+    },
+    {
+      "nombre": "Elordi",
+      "km": 468.1
+    },
+    {
+      "nombre": "Banderaló",
+      "km": 491.6
+    },
+    {
+      "nombre": "Sarah",
+      "km": 520.4
+    },
+    {
+      "nombre": "Mariano Miró",
+      "km": 531.6
+    },
+    {
+      "nombre": "Coronel Hilario Lagos",
+      "km": 540.2
+    }
+  ],
+  "CP": [
+    {
+      "nombre": "Relmo",
+      "km": 325.4
+    },
+    {
+      "nombre": "Quemú Quemú",
+      "km": 350.2
+    },
+    {
+      "nombre": "Trilí",
+      "km": 368.2
+    },
+    {
+      "nombre": "Dorila",
+      "km": 384.0
+    },
+    {
+      "nombre": "General Pico",
+      "km": 397.8
+    },
+    {
+      "nombre": "Carlos Berg",
+      "km": 399.6
+    },
+    {
+      "nombre": "Vértiz",
+      "km": 428.2
+    },
+    {
+      "nombre": "Falucho",
+      "km": 460.1
+    },
+    {
+      "nombre": "Ricardo Lavalle",
+      "km": 468.2
+    },
+    {
+      "nombre": "Melideo",
+      "km": 495.3
+    },
+    {
+      "nombre": "Realicó",
+      "km": 571.3
+    }
+  ],
+  "DA": [
+    {
+      "nombre": "J. F. Ibarra",
+      "km": 349.4
+    },
+    {
+      "nombre": "Urdampilleta",
+      "km": 366.7
+    },
+    {
+      "nombre": "Pirovano",
+      "km": 381.7
+    },
+    {
+      "nombre": "La Larga",
+      "km": 419.8
+    },
+    {
+      "nombre": "La Manuela",
+      "km": 434.7
+    },
+    {
+      "nombre": "Bonifacio",
+      "km": 452.1
+    },
+    {
+      "nombre": "Alamos",
+      "km": 466.5
+    },
+    {
+      "nombre": "Arroyo Venado",
+      "km": 495.5
+    },
+    {
+      "nombre": "Carhué",
+      "km": 517.9
+    },
+    {
+      "nombre": "Erize",
+      "km": 549.3
+    },
+    {
+      "nombre": "Puán",
+      "km": 566.7
+    },
+    {
+      "nombre": "Alta Vista",
+      "km": 580.3
+    },
+    {
+      "nombre": "Goyena",
+      "km": 592.7
+    }
+  ],
+  "DB": [
+    {
+      "nombre": "Recalde",
+      "km": 355.0
+    },
+    {
+      "nombre": "Empalme a Huanguelen",
+      "km": 355.5
+    },
+    {
+      "nombre": "Mapis",
+      "km": 377.3
+    },
+    {
+      "nombre": "Arboledas",
+      "km": 399.1
+    },
+    {
+      "nombre": "Louge",
+      "km": 415.9
+    },
+    {
+      "nombre": "Otoño",
+      "km": 434.4
+    },
+    {
+      "nombre": "Huanguelen Sud",
+      "km": 443.6
+    },
+    {
+      "nombre": "Cascada",
+      "km": 485.9
+    },
+    {
+      "nombre": "Espartillar",
+      "km": 499.8
+    }
+  ],
+  "DC": [
+    {
+      "nombre": "Olascoaga",
+      "km": 226.6
+    },
+    {
+      "nombre": "9 de Julio",
+      "km": 260.9
+    },
+    {
+      "nombre": "Cambeceres",
+      "km": 286.1
+    },
+    {
+      "nombre": "La Dorita",
+      "km": 297.5
+    },
+    {
+      "nombre": "Carlos Casares",
+      "km": 309.2
+    },
+    {
+      "nombre": "Santo Tomás",
+      "km": 323.7
+    },
+    {
+      "nombre": "Pehuajó",
+      "km": 362.4
+    },
+    {
+      "nombre": "Alagón",
+      "km": 379.6
+    },
+    {
+      "nombre": "Albariño",
+      "km": 397.6
+    },
+    {
+      "nombre": "Duhau",
+      "km": 413.8
+    },
+    {
+      "nombre": "Corazzi",
+      "km": 429.2
+    },
+    {
+      "nombre": "La Porteña",
+      "km": 463.1
+    },
+    {
+      "nombre": "Tres Lomas",
+      "km": 480.6
+    }
+  ],
+  "DD": [
+    {
+      "nombre": "Ing. Thompson",
+      "km": 522.4
+    },
+    {
+      "nombre": "Salliqueló",
+      "km": 538.4
+    },
+    {
+      "nombre": "Fatraló",
+      "km": 564.4
+    },
+    {
+      "nombre": "Lago Epecuén",
+      "km": 581.8
+    }
+  ],
+  "DE": [
+    {
+      "nombre": "Ap",
+      "km": 8.154
+    },
+    {
+      "nombre": "Ap.",
+      "km": 9.0
+    },
+    {
+      "nombre": "Galván",
+      "km": 10.6
+    },
+    {
+      "nombre": "Parada",
+      "km": 11.0
+    },
+    {
+      "nombre": "Garro",
+      "km": 13.8
+    }
+  ],
+  "DORR": [
+    {
+      "nombre": "Barrow",
+      "km": 497.5
+    },
+    {
+      "nombre": "Tres Arroyos",
+      "km": 506.5
+    },
+    {
+      "nombre": "Micaela Cascallares",
+      "km": 528.8
+    },
+    {
+      "nombre": "Irene",
+      "km": 549.8
+    },
+    {
+      "nombre": "Aparicio",
+      "km": 567.8
+    },
+    {
+      "nombre": "Empalme Dorrego",
+      "km": 582.0
+    },
+    {
+      "nombre": "J.A. Guisasola",
+      "km": 587.1
+    },
+    {
+      "nombre": "Coronel Dorrego",
+      "km": 605.8
+    },
+    {
+      "nombre": "Calvo",
+      "km": 620.1
+    },
+    {
+      "nombre": "San Roman",
+      "km": 631.3
+    },
+    {
+      "nombre": "Bajo Hondo",
+      "km": 665.9
+    },
+    {
+      "nombre": "Empalme Grünbein",
+      "km": 679.6
+    }
+  ],
+  "DP": [
+    {
+      "nombre": "Pourtalé",
+      "km": 361.1
+    },
+    {
+      "nombre": "Empalme a Carhué",
+      "km": 558.3
+    },
+    {
+      "nombre": "Spurr KM",
+      "km": 683.572
+    }
+  ],
+  "DY": [
+    {
+      "nombre": "General Cerri",
+      "km": 654.0
+    }
+  ],
+  "EP": [
+    {
+      "nombre": "Villa Diego",
+      "km": 6.9
+    },
+    {
+      "nombre": "Los Muchachos",
+      "km": 20.4
+    },
+    {
+      "nombre": "Erasto",
+      "km": 27.8
+    },
+    {
+      "nombre": "Benard",
+      "km": 39.0
+    },
+    {
+      "nombre": "Arminda",
+      "km": 51.7
+    },
+    {
+      "nombre": "Mugueta",
+      "km": 61.1
+    },
+    {
+      "nombre": "Bigand",
+      "km": 74.9
+    },
+    {
+      "nombre": "Bombal",
+      "km": 90.4
+    },
+    {
+      "nombre": "Miguel Torres",
+      "km": 106.1
+    },
+    {
+      "nombre": "Chovet",
+      "km": 121.7
+    },
+    {
+      "nombre": "El Jardin",
+      "km": 134.7
+    },
+    {
+      "nombre": "Chapuy",
+      "km": 148.2
+    },
+    {
+      "nombre": "Runciman",
+      "km": 161.6
+    },
+    {
+      "nombre": "María Teresa",
+      "km": 176.2
+    },
+    {
+      "nombre": "Christophersen",
+      "km": 198.5
+    },
+    {
+      "nombre": "San Gregorio",
+      "km": 214.5
+    },
+    {
+      "nombre": "Puente El Peregrino",
+      "km": 243.0
+    },
+    {
+      "nombre": "El Peregrino",
+      "km": 244.7
+    },
+    {
+      "nombre": "Los Callejones",
+      "km": 263.261
+    },
+    {
+      "nombre": "Porvenir",
+      "km": 284.893
+    },
+    {
+      "nombre": "Nuva Suiza",
+      "km": 299.1
+    },
+    {
+      "nombre": "Timote KM. 333.5",
+      "km": 333.557
+    },
+    {
+      "nombre": "Empalme con FCGBM (RPB) a Rosario",
+      "km": 362.43
+    }
+  ],
+  "FA": [
+    {
+      "nombre": "Recalde",
+      "km": 355.0
+    },
+    {
+      "nombre": "Iturregui",
+      "km": 374.8
+    },
+    {
+      "nombre": "Quilco",
+      "km": 405.1
+    },
+    {
+      "nombre": "Lastra",
+      "km": 444.1
+    },
+    {
+      "nombre": "Líbano",
+      "km": 457.5
+    },
+    {
+      "nombre": "Pontaut",
+      "km": 479.9
+    },
+    {
+      "nombre": "Empalme a Lamadrid",
+      "km": 485.2
+    },
+    {
+      "nombre": "Pringles",
+      "km": 490.3
+    }
+  ],
+  "FB": [
+    {
+      "nombre": "Bolivar",
+      "km": 330.9
+    },
+    {
+      "nombre": "Vallimanca",
+      "km": 346.1
+    },
+    {
+      "nombre": "Paula",
+      "km": 364.2
+    },
+    {
+      "nombre": "Empalme Recalde",
+      "km": 378.1
+    },
+    {
+      "nombre": "Recalde",
+      "km": 382.0
+    }
+  ],
+  "FP": [
+    {
+      "nombre": "Límite FCGBM / FCGR",
+      "km": 345.5
+    },
+    {
+      "nombre": "Cruce FCGB (G4) - FCGR",
+      "km": 360.158
+    },
+    {
+      "nombre": "Marucha",
+      "km": 361.35
+    },
+    {
+      "nombre": "Cruce FCGB (G5) y FCGBM",
+      "km": 417.4
+    },
+    {
+      "nombre": "Cruce FCGR (RPB) y FCGR",
+      "km": 420.8
+    },
+    {
+      "nombre": "Cruce entre FCGB (P) y FCGBM",
+      "km": 440.0
+    },
+    {
+      "nombre": "Cruce con FCGR",
+      "km": 446.3
+    },
+    {
+      "nombre": "Cruce FCGB (M) - FCGR",
+      "km": 466.699
+    },
+    {
+      "nombre": "Cruce FCGR (RPB) Y FCGR Vía La Madrid",
+      "km": 488.8
+    }
+  ],
+  "MONT": [
+    {
+      "nombre": "Empalme Cañuelas",
+      "km": 66.2
+    },
+    {
+      "nombre": "La Noria",
+      "km": 76.6
+    },
+    {
+      "nombre": "Abbott",
+      "km": 89.6
+    },
+    {
+      "nombre": "Cruce FCGB (P) y FCGR",
+      "km": 98.029
+    },
+    {
+      "nombre": "Monte",
+      "km": 106.9
+    },
+    {
+      "nombre": "Zenón Videla Dorna",
+      "km": 121.5
+    },
+    {
+      "nombre": "Gorchs",
+      "km": 137.6
+    },
+    {
+      "nombre": "Kilómetro 146",
+      "km": 146.0
+    },
+    {
+      "nombre": "Coronel Boerr",
+      "km": 168.8
+    },
+    {
+      "nombre": "Empalme a Tandil",
+      "km": 181.8
+    },
+    {
+      "nombre": "Harosteguy",
+      "km": 200.2
+    },
+    {
+      "nombre": "Las Flores",
+      "km": 208.1
+    },
+    {
+      "nombre": "Pardo",
+      "km": 213.9
+    },
+    {
+      "nombre": "Cachari",
+      "km": 223.0
+    },
+    {
+      "nombre": "Miramonte",
+      "km": 223.5
+    },
+    {
+      "nombre": "Parish",
+      "km": 252.8
+    },
+    {
+      "nombre": "Shaw",
+      "km": 267.1
+    },
+    {
+      "nombre": "Vicente Pereda",
+      "km": 276.8
+    },
+    {
+      "nombre": "Azul",
+      "km": 288.5
+    },
+    {
+      "nombre": "Nieves",
+      "km": 302.0
+    },
+    {
+      "nombre": "Hinojo",
+      "km": 317.6
+    },
+    {
+      "nombre": "Olavarría",
+      "km": 337.3
+    }
+  ],
+  "NQN": [
+    {
+      "nombre": "Argerich",
+      "km": 673.6
+    },
+    {
+      "nombre": "Mascota",
+      "km": 678.8
+    },
+    {
+      "nombre": "Médanos",
+      "km": 684.3
+    },
+    {
+      "nombre": "Nicolás Levalle",
+      "km": 700.3
+    },
+    {
+      "nombre": "Algarrobo",
+      "km": 723.8
+    },
+    {
+      "nombre": "Montes de Oca",
+      "km": 742.6
+    },
+    {
+      "nombre": "Gaviotas",
+      "km": 767.3
+    },
+    {
+      "nombre": "Anzotegui",
+      "km": 786.3
+    },
+    {
+      "nombre": "Desvío Kilómetro 796.4",
+      "km": 796.4
+    },
+    {
+      "nombre": "Río Colorado",
+      "km": 807.9
+    },
+    {
+      "nombre": "Coronel Eugenio Bustos",
+      "km": 822.5
+    },
+    {
+      "nombre": "Desvío Kilómetro 829",
+      "km": 829.0
+    },
+    {
+      "nombre": "Juan De Garay",
+      "km": 849.7
+    },
+    {
+      "nombre": "Desvío Kilómetro 867.990",
+      "km": 868.0
+    },
+    {
+      "nombre": "Pichi Mahuida",
+      "km": 885.8
+    },
+    {
+      "nombre": "Desvío Kilómetro 899.235",
+      "km": 899.2
+    },
+    {
+      "nombre": "Fortín Uno",
+      "km": 915.9
+    },
+    {
+      "nombre": "Desvío Kilómetro 934.790",
+      "km": 934.8
+    },
+    {
+      "nombre": "Benjamín Zorrilla",
+      "km": 949.4
+    },
+    {
+      "nombre": "Desvío Kilómetro 966.885",
+      "km": 966.9
+    },
+    {
+      "nombre": "Choele-Choel",
+      "km": 975.1
+    },
+    {
+      "nombre": "Darwin",
+      "km": 985.6
+    },
+    {
+      "nombre": "Colonia Belisle",
+      "km": 1004.7
+    },
+    {
+      "nombre": "Chimpay",
+      "km": 1021.2
+    },
+    {
+      "nombre": "Desvío Kilómetro 1040",
+      "km": 1040.7
+    },
+    {
+      "nombre": "Chelforó",
+      "km": 1056.3
+    },
+    {
+      "nombre": "Desvío Kilómetro 1071",
+      "km": 1071.5
+    },
+    {
+      "nombre": "Ingeniero Julián Romero",
+      "km": 1079.3
+    },
+    {
+      "nombre": "Chichinales",
+      "km": 1094.4
+    },
+    {
+      "nombre": "Desvío Kilómetro 1099",
+      "km": 1098.5
+    },
+    {
+      "nombre": "Villa Regina",
+      "km": 1106.7
+    },
+    {
+      "nombre": "Enrique Godoy",
+      "km": 1113.4
+    },
+    {
+      "nombre": "Ingeniero Luis A. Huergo",
+      "km": 1120.6
+    },
+    {
+      "nombre": "Mainque",
+      "km": 1127.0
+    },
+    {
+      "nombre": "Cervantes",
+      "km": 1134.3
+    },
+    {
+      "nombre": "Alejandro Stefenelli",
+      "km": 1147.0
+    },
+    {
+      "nombre": "General Roca",
+      "km": 1150.5
+    },
+    {
+      "nombre": "Coronel Juan F. Gómez",
+      "km": 1155.8
+    },
+    {
+      "nombre": "Contraalmirante Martín Guerrico",
+      "km": 1164.0
+    },
+    {
+      "nombre": "Allen",
+      "km": 1172.9
+    },
+    {
+      "nombre": "Cipolletti",
+      "km": 1188.2
+    },
+    {
+      "nombre": "Neuquen",
+      "km": 1194.1
+    },
+    {
+      "nombre": "Plottier",
+      "km": 1209.2
+    },
+    {
+      "nombre": "Senillosa",
+      "km": 1227.5
+    },
+    {
+      "nombre": "Challacó",
+      "km": 1275.9
+    },
+    {
+      "nombre": "Plaza Huincul",
+      "km": 1297.1
+    },
+    {
+      "nombre": "Desvío Kilómetro 1319",
+      "km": 1319.4
+    },
+    {
+      "nombre": "Ramón M. Castro",
+      "km": 1350.6
+    },
+    {
+      "nombre": "Zapala",
+      "km": 1381.5
+    }
+  ],
+  "PRING": [
+    {
+      "nombre": "Empalme Querandíes",
+      "km": 347.8
+    },
+    {
+      "nombre": "La Luisa",
+      "km": 360.7
+    },
+    {
+      "nombre": "Durañona",
+      "km": 377.2
+    },
+    {
+      "nombre": "Santa Elena",
+      "km": 391.0
+    },
+    {
+      "nombre": "Voluntad",
+      "km": 404.5
+    },
+    {
+      "nombre": "Laprida",
+      "km": 419.5
+    },
+    {
+      "nombre": "Las Hermanas",
+      "km": 430.6
+    },
+    {
+      "nombre": "Paraguil",
+      "km": 443.3
+    },
+    {
+      "nombre": "Krabbé",
+      "km": 460.9
+    },
+    {
+      "nombre": "Reserva",
+      "km": 469.9
+    },
+    {
+      "nombre": "Empalme a Lamadrid",
+      "km": 485.2
+    },
+    {
+      "nombre": "Pringles",
+      "km": 490.3
+    },
+    {
+      "nombre": "Empalme con FCGR (RPB)",
+      "km": 491.8
+    },
+    {
+      "nombre": "Cruce con FCGR (FCRPB)",
+      "km": 492.0
+    },
+    {
+      "nombre": "Stegmann",
+      "km": 506.5
+    },
+    {
+      "nombre": "Peralta",
+      "km": 519.8
+    },
+    {
+      "nombre": "Sierra de la Ventana",
+      "km": 535.8
+    },
+    {
+      "nombre": "Saldungaray",
+      "km": 544.8
+    },
+    {
+      "nombre": "Estomba",
+      "km": 563.4
+    },
+    {
+      "nombre": "Cabildo",
+      "km": 580.5
+    },
+    {
+      "nombre": "Cochrane",
+      "km": 592.6
+    },
+    {
+      "nombre": "Corti",
+      "km": 602.3
+    },
+    {
+      "nombre": "Calderón",
+      "km": 613.8
+    },
+    {
+      "nombre": "Empalme Grünbein",
+      "km": 618.4
+    },
+    {
+      "nombre": "Grünbein",
+      "km": 628.2
+    }
+  ],
+  "RAUCH": [
+    {
+      "nombre": "Empalme a Tandil",
+      "km": 181.8
+    },
+    {
+      "nombre": "Plaza Montero",
+      "km": 194.4
+    },
+    {
+      "nombre": "Martín Colman",
+      "km": 223.6
+    },
+    {
+      "nombre": "Miranda",
+      "km": 237.4
+    },
+    {
+      "nombre": "Rauch",
+      "km": 269.1
+    },
+    {
+      "nombre": "Egaña",
+      "km": 290.1
+    },
+    {
+      "nombre": "De La Canal",
+      "km": 308.5
+    },
+    {
+      "nombre": "Tandil Empalme Oeste",
+      "km": 325.0
+    },
+    {
+      "nombre": "Tandil Empalme Sud",
+      "km": 326.2
+    },
+    {
+      "nombre": "Tandil",
+      "km": 330.3
+    }
+  ],
+  "SN1": [
+    {
+      "nombre": "Empalme a Casilda",
+      "km": 65.8
+    },
+    {
+      "nombre": "Zarate",
+      "km": 93.3
+    },
+    {
+      "nombre": "Las Palmas",
+      "km": 104.7
+    },
+    {
+      "nombre": "Lima",
+      "km": 109.8
+    },
+    {
+      "nombre": "Atucha",
+      "km": 120.7
+    },
+    {
+      "nombre": "Baradero",
+      "km": 149.1
+    },
+    {
+      "nombre": "Río Tala",
+      "km": 162.0
+    },
+    {
+      "nombre": "San Pedro",
+      "km": 171.7
+    },
+    {
+      "nombre": "Gobernador Castro",
+      "km": 190.1
+    },
+    {
+      "nombre": "El Paraíso",
+      "km": 204.2
+    },
+    {
+      "nombre": "Ramallo",
+      "km": 215.5
+    },
+    {
+      "nombre": "Sánchez",
+      "km": 225.9
+    },
+    {
+      "nombre": "Empalme a SIDERAR",
+      "km": 227.6
+    },
+    {
+      "nombre": "Empalme a Pergamino",
+      "km": 233.0
+    },
+    {
+      "nombre": "Empalme San Nicolás",
+      "km": 233.7
+    },
+    {
+      "nombre": "San Nicolás",
+      "km": 239.0
+    },
+    {
+      "nombre": "Theobald",
+      "km": 248.0
+    },
+    {
+      "nombre": "Emp. Villa Constitución",
+      "km": 256.672
+    },
+    {
+      "nombre": "Villa Constitución - Cruce con Ramal a Rio Cuarto",
+      "km": 256.7
+    },
+    {
+      "nombre": "Empalme a Ramal Río Cuarto",
+      "km": 257.0
+    },
+    {
+      "nombre": "Pavón",
+      "km": 259.7
+    },
+    {
+      "nombre": "Fighiera",
+      "km": 267.4
+    },
+    {
+      "nombre": "Arroyo Seco",
+      "km": 273.1
+    },
+    {
+      "nombre": "General Lagos",
+      "km": 280.4
+    },
+    {
+      "nombre": "Alvear",
+      "km": 287.8
+    },
+    {
+      "nombre": "Empalme a Villa Diego",
+      "km": 292.0
+    },
+    {
+      "nombre": "Aguirre",
+      "km": 292.4
+    },
+    {
+      "nombre": "Cruce CGBA / FCCA",
+      "km": 377.1
+    }
+  ],
+  "SN2": [
+    {
+      "nombre": "Barrio Vila",
+      "km": 7.1
+    },
+    {
+      "nombre": "Empalme a Ramal Peyrano",
+      "km": 12.1
+    }
+  ],
+  "UAP": [
+    {
+      "nombre": "Aguará",
+      "km": 651.7
+    },
+    {
+      "nombre": "Ombucta",
+      "km": 679.4
+    },
+    {
+      "nombre": "Teniente Origone",
+      "km": 698.1
+    },
+    {
+      "nombre": "Mayor Buratovich",
+      "km": 719.6
+    },
+    {
+      "nombre": "Hilario Ascasubi",
+      "km": 732.8
+    },
+    {
+      "nombre": "Pedro Luro",
+      "km": 747.4
+    },
+    {
+      "nombre": "Juan A. Pradere",
+      "km": 758.6
+    },
+    {
+      "nombre": "Igarzabal",
+      "km": 779.1
+    },
+    {
+      "nombre": "Villalonga",
+      "km": 794.3
+    },
+    {
+      "nombre": "Emilio Lamarca",
+      "km": 811.5
+    },
+    {
+      "nombre": "Stroeder",
+      "km": 824.3
+    },
+    {
+      "nombre": "Jose B. Casas",
+      "km": 853.4
+    },
+    {
+      "nombre": "Cardenal Cagliero",
+      "km": 888.5
+    },
+    {
+      "nombre": "Carmen de Patagones",
+      "km": 914.5
+    }
+  ],
+  "Emp_Lobos": [
+    {
+      "nombre": "Cañuelas",
+      "km": 64.1
+    },
+    {
+      "nombre": "Empalme Cañuelas",
+      "km": 66.2
+    },
+    {
+      "nombre": "Uribelarrea",
+      "km": 79.0
+    },
+    {
+      "nombre": "Empalme Lobos Playa",
+      "km": 95.8
+    },
+    {
+      "nombre": "Empalme Lobos",
+      "km": 98.0
+    }
+  ]
+}
