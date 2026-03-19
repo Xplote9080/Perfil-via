@@ -1105,6 +1105,10 @@
       "km": 6.7
     },
     {
+      "nombre": "Bordeu",
+      "km": 10.1
+    },
+    {
       "nombre": "Villa Olga",
       "km": 13.6
     },
@@ -1155,12 +1159,20 @@
       "km": 162.8
     },
     {
+      "nombre": "Avestruz",
+      "km": 177.1
+    },
+    {
       "nombre": "Guatraché",
       "km": 195.6
     },
     {
       "nombre": "General Mauel Campos",
       "km": 220.9
+    },
+    {
+      "nombre": "Apuyaco",
+      "km": 233.4
     },
     {
       "nombre": "Apuyaco",
@@ -1363,12 +1375,24 @@
     {
       "nombre": "Atreuco",
       "km": 272.0
+    },
+    {
+      "nombre": "Doblas",
+      "km": 290.1
     }
   ],
   "BD": [
     {
+      "nombre": "Yutuyaco",
+      "km": 243.3
+    },
+    {
       "nombre": "Leubucó",
       "km": 258.2
+    },
+    {
+      "nombre": "Salliqueló",
+      "km": 274.3
     }
   ],
   "BF": [
@@ -1377,11 +1401,19 @@
       "km": 280.3
     },
     {
+      "nombre": "Desvío Trimag",
+      "km": 292.9
+    },
+    {
       "nombre": "Cereales",
       "km": 311.8
     }
   ],
   "BG": [
+    {
+      "nombre": "Lonquimay",
+      "km": 541.7
+    },
     {
       "nombre": "La Gloria",
       "km": 553.5
@@ -1417,6 +1449,10 @@
       "km": 202.5
     },
     {
+      "nombre": "Rivera",
+      "km": 221.0
+    },
+    {
       "nombre": "Arano",
       "km": 233.6
     },
@@ -1437,6 +1473,14 @@
       "km": 290.5
     },
     {
+      "nombre": "Enlace BG",
+      "km": 305.6
+    },
+    {
+      "nombre": "Catriló",
+      "km": 307.3
+    },
+    {
       "nombre": "Catriló",
       "km": 522.8
     }
@@ -1455,6 +1499,10 @@
     {
       "nombre": "Francisco Madero",
       "km": 379.5
+    },
+    {
+      "nombre": "Juan José Paso",
+      "km": 400.2
     },
     {
       "nombre": "Berruti",
@@ -1507,6 +1555,10 @@
       "km": 581.0
     },
     {
+      "nombre": "Boeuf",
+      "km": 595.0
+    },
+    {
       "nombre": "Conhello",
       "km": 610.0
     },
@@ -1541,6 +1593,10 @@
   ],
   "CF": [
     {
+      "nombre": "C. M. Naón",
+      "km": 246.7
+    },
+    {
       "nombre": "El Tejar",
       "km": 266.8
     },
@@ -1553,8 +1609,12 @@
       "km": 302.5
     },
     {
+      "nombre": "Cnel. M. de Hoz",
+      "km": 319.3
+    },
+    {
       "nombre": "Las Toscas",
-      "km": 336.9
+      "km": 339.6
     },
     {
       "nombre": "Carlos Salas",
@@ -1565,12 +1625,32 @@
       "km": 379.3
     },
     {
+      "nombre": "Carlos Tejedor",
+      "km": 397.8
+    },
+    {
+      "nombre": "Santa Inés",
+      "km": 413.3
+    },
+    {
       "nombre": "Colonia Seré",
       "km": 426.3
     },
     {
+      "nombre": "Cerrito",
+      "km": 438.0
+    },
+    {
       "nombre": "América",
       "km": 449.5
+    },
+    {
+      "nombre": "Desvío ASP",
+      "km": 451.7
+    },
+    {
+      "nombre": "Desvío Dreyfus",
+      "km": 453.5
     },
     {
       "nombre": "González Moreno",
@@ -1625,8 +1705,16 @@
   ],
   "CH": [
     {
+      "nombre": "Lincoln",
+      "km": 312.5
+    },
+    {
       "nombre": "Roberts",
       "km": 351.0
+    },
+    {
+      "nombre": "Roberts",
+      "km": 368.1
     }
   ],
   "CHAV": [
@@ -1687,6 +1775,10 @@
   ],
   "CJ": [
     {
+      "nombre": "Los Toldos",
+      "km": 262.8
+    },
+    {
       "nombre": "Chancay",
       "km": 283.9
     },
@@ -1697,6 +1789,22 @@
     {
       "nombre": "Fortín Vigilancia",
       "km": 323.1
+    },
+    {
+      "nombre": "Roberts",
+      "km": 351.4
+    },
+    {
+      "nombre": "Pasteur",
+      "km": 375.9
+    },
+    {
+      "nombre": "Encina",
+      "km": 389.9
+    },
+    {
+      "nombre": "Hereford",
+      "km": 401.0
     },
     {
       "nombre": "Cuenca",
@@ -1737,6 +1845,10 @@
       "km": 584.0
     },
     {
+      "nombre": "Quetrequén",
+      "km": 596.6
+    },
+    {
       "nombre": "Rancul",
       "km": 611.4
     },
@@ -1746,6 +1858,10 @@
     }
   ],
   "CL": [
+    {
+      "nombre": "Desvío Cargill",
+      "km": 319.4
+    },
     {
       "nombre": "Balsa",
       "km": 326.6
@@ -1787,12 +1903,28 @@
       "km": 444.6
     },
     {
+      "nombre": "Desvío La Plata Cereal",
+      "km": 450.8
+    },
+    {
+      "nombre": "Desvío OMHSA",
+      "km": 453.8
+    },
+    {
+      "nombre": "General Villegas",
+      "km": 457.7
+    },
+    {
       "nombre": "Elordi",
       "km": 468.1
     },
     {
       "nombre": "Banderaló",
       "km": 491.6
+    },
+    {
+      "nombre": "Bernardo Larroude",
+      "km": 510.6
     },
     {
       "nombre": "Sarah",
@@ -1805,12 +1937,20 @@
     {
       "nombre": "Coronel Hilario Lagos",
       "km": 540.2
+    },
+    {
+      "nombre": "A. Van Praet",
+      "km": 551.9
     }
   ],
   "CP": [
     {
       "nombre": "Relmo",
       "km": 325.4
+    },
+    {
+      "nombre": "M. Cané",
+      "km": 337.9
     },
     {
       "nombre": "Quemú Quemú",
@@ -1833,8 +1973,20 @@
       "km": 399.6
     },
     {
+      "nombre": "Desvío Cargill",
+      "km": 402.4
+    },
+    {
+      "nombre": "Speluzzi",
+      "km": 412.4
+    },
+    {
       "nombre": "Vértiz",
       "km": 428.2
+    },
+    {
+      "nombre": "Ojeda",
+      "km": 444.4
     },
     {
       "nombre": "Falucho",
@@ -1845,8 +1997,20 @@
       "km": 468.2
     },
     {
+      "nombre": "Enlace CL",
+      "km": 480.3
+    },
+    {
+      "nombre": "Realicó",
+      "km": 482.2
+    },
+    {
       "nombre": "Melideo",
       "km": 495.3
+    },
+    {
+      "nombre": "Huinca Renancó",
+      "km": 507.3
     },
     {
       "nombre": "Realicó",
@@ -1854,6 +2018,10 @@
     }
   ],
   "DA": [
+    {
+      "nombre": "Bolívar",
+      "km": 330.9
+    },
     {
       "nombre": "J. F. Ibarra",
       "km": 349.4
@@ -1865,6 +2033,10 @@
     {
       "nombre": "Pirovano",
       "km": 381.7
+    },
+    {
+      "nombre": "Daireaux",
+      "km": 401.7
     },
     {
       "nombre": "La Larga",
@@ -1881,6 +2053,10 @@
     {
       "nombre": "Alamos",
       "km": 466.5
+    },
+    {
+      "nombre": "Guaminí",
+      "km": 482.3
     },
     {
       "nombre": "Arroyo Venado",
@@ -1947,12 +2123,24 @@
   ],
   "DC": [
     {
+      "nombre": "Bragado",
+      "km": 209.2
+    },
+    {
       "nombre": "Olascoaga",
       "km": 226.6
     },
     {
+      "nombre": "Dennehy",
+      "km": 244.3
+    },
+    {
       "nombre": "9 de Julio",
       "km": 260.9
+    },
+    {
+      "nombre": "French",
+      "km": 274.0
     },
     {
       "nombre": "Cambeceres",
@@ -1971,8 +2159,24 @@
       "km": 323.7
     },
     {
+      "nombre": "San Bernardo",
+      "km": 336.3
+    },
+    {
+      "nombre": "Chiclana",
+      "km": 345.3
+    },
+    {
       "nombre": "Pehuajó",
       "km": 362.4
+    },
+    {
+      "nombre": "Desvío Tomás Hnos.",
+      "km": 364.9
+    },
+    {
+      "nombre": "Desvío Los Grobo",
+      "km": 367.0
     },
     {
       "nombre": "Alagón",
@@ -2091,12 +2295,84 @@
   ],
   "DP": [
     {
+      "nombre": "Olavarría",
+      "km": 332.4
+    },
+    {
       "nombre": "Pourtalé",
       "km": 361.1
     },
     {
+      "nombre": "Muñoz",
+      "km": 378.1
+    },
+    {
+      "nombre": "Rocha",
+      "km": 389.2
+    },
+    {
+      "nombre": "Las Martinetas",
+      "km": 412.2
+    },
+    {
+      "nombre": "Gral. Lamadrid",
+      "km": 425.7
+    },
+    {
+      "nombre": "La Colina",
+      "km": 453.6
+    },
+    {
+      "nombre": "Piñeyro",
+      "km": 472.1
+    },
+    {
+      "nombre": "Cnel. Suárez",
+      "km": 490.1
+    },
+    {
+      "nombre": "Cura Malal",
+      "km": 505.7
+    },
+    {
+      "nombre": "Arroyo Corto",
+      "km": 524.3
+    },
+    {
+      "nombre": "Pigüé",
+      "km": 538.1
+    },
+    {
       "nombre": "Empalme a Carhué",
       "km": 558.3
+    },
+    {
+      "nombre": "Dufaur",
+      "km": 579.4
+    },
+    {
+      "nombre": "Tornquist",
+      "km": 599.2
+    },
+    {
+      "nombre": "Tres Picos",
+      "km": 620.1
+    },
+    {
+      "nombre": "García del Río",
+      "km": 628.3
+    },
+    {
+      "nombre": "Naposta",
+      "km": 640.0
+    },
+    {
+      "nombre": "La Vitícola",
+      "km": 653.1
+    },
+    {
+      "nombre": "Bahía Blanca Sud",
+      "km": 680.2
     },
     {
       "nombre": "Spurr KM",
@@ -2175,6 +2451,10 @@
       "km": 214.5
     },
     {
+      "nombre": "Dos Hermanos",
+      "km": 230.8
+    },
+    {
       "nombre": "Puente El Peregrino",
       "km": 243.0
     },
@@ -2193,6 +2473,10 @@
     {
       "nombre": "Nuva Suiza",
       "km": 299.1
+    },
+    {
+      "nombre": "Necol",
+      "km": 314.4
     },
     {
       "nombre": "Timote KM. 333.5",
@@ -2215,6 +2499,10 @@
     {
       "nombre": "Quilco",
       "km": 405.1
+    },
+    {
+      "nombre": "General Lamadrid",
+      "km": 425.0
     },
     {
       "nombre": "Lastra",
@@ -2273,6 +2561,10 @@
       "km": 361.35
     },
     {
+      "nombre": "Cap. Castro",
+      "km": 393.1
+    },
+    {
       "nombre": "Cruce FCGB (G5) y FCGBM",
       "km": 417.4
     },
@@ -2289,12 +2581,92 @@
       "km": 446.3
     },
     {
+      "nombre": "Masurel",
+      "km": 459.8
+    },
+    {
       "nombre": "Cruce FCGB (M) - FCGR",
       "km": 466.699
     },
     {
+      "nombre": "Luro",
+      "km": 476.4
+    },
+    {
       "nombre": "Cruce FCGR (RPB) Y FCGR Vía La Madrid",
       "km": 488.8
+    },
+    {
+      "nombre": "La Nevada",
+      "km": 513.0
+    },
+    {
+      "nombre": "Huanguelén",
+      "km": 527.6
+    },
+    {
+      "nombre": "Zentena",
+      "km": 544.5
+    },
+    {
+      "nombre": "La Primavera",
+      "km": 558.0
+    },
+    {
+      "nombre": "Cnel. Suárez R.P.B.",
+      "km": 572.4
+    },
+    {
+      "nombre": "Bathurst",
+      "km": 587.0
+    },
+    {
+      "nombre": "Quinihual",
+      "km": 619.1
+    },
+    {
+      "nombre": "Raulet",
+      "km": 634.5
+    },
+    {
+      "nombre": "Cnel. Pringles",
+      "km": 648.6
+    },
+    {
+      "nombre": "Pillahuinco",
+      "km": 661.5
+    },
+    {
+      "nombre": "El Pensamiento",
+      "km": 678.1
+    },
+    {
+      "nombre": "Las Mostazas",
+      "km": 686.7
+    },
+    {
+      "nombre": "El Divisorio",
+      "km": 698.2
+    },
+    {
+      "nombre": "Lartigau",
+      "km": 717.1
+    },
+    {
+      "nombre": "Cnel. Falcón",
+      "km": 741.2
+    },
+    {
+      "nombre": "Paso Mayor",
+      "km": 756.0
+    },
+    {
+      "nombre": "Bajo Hondo",
+      "km": 770.7
+    },
+    {
+      "nombre": "Almte. Solier",
+      "km": 790.6
     }
   ],
   "MONT": [
@@ -2931,6 +3303,16 @@
     {
       "nombre": "Empalme Lobos",
       "km": 98.0
+    }
+  ],
+  "CB": [
+    {
+      "nombre": "Huelén",
+      "km": 576.0
+    },
+    {
+      "nombre": "Colonia Barón",
+      "km": 588.7
     }
   ]
 }
