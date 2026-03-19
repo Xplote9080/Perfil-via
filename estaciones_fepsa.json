@@ -972,23 +972,27 @@
   "ABP": [
     {
       "nombre": "Retiro",
-      "km": 1.075
+      "km": 1.1
     },
     {
-      "nombre": "Empalme Maldonado",
-      "km": 4.6
+      "nombre": "Palermo",
+      "km": 3.5
     },
     {
-      "nombre": "3 de Febrero",
-      "km": 6.7
+      "nombre": "Belgrano C",
+      "km": 5.2
+    },
+    {
+      "nombre": "Núñez",
+      "km": 6.8
     },
     {
       "nombre": "Colegiales",
       "km": 9.1
     },
     {
-      "nombre": "Empalme Coghlan",
-      "km": 11.3
+      "nombre": "Belgrano R",
+      "km": 10.5
     },
     {
       "nombre": "Coghlan",
@@ -1007,11 +1011,7 @@
       "km": 14.6
     },
     {
-      "nombre": "Kilómetro 16",
-      "km": 15.8
-    },
-    {
-      "nombre": "Parada Miguelete",
+      "nombre": "Miguelete",
       "km": 16.0
     },
     {
@@ -1055,6 +1055,10 @@
   ],
   "ADP": [
     {
+      "nombre": "Villa Ballester",
+      "km": 21.9
+    },
+    {
       "nombre": "Bancalari",
       "km": 30.2
     },
@@ -1097,104 +1101,80 @@
     {
       "nombre": "Campana",
       "km": 81.3
+    },
+    {
+      "nombre": "Km. 83",
+      "km": 83.0
+    },
+    {
+      "nombre": "Zárate",
+      "km": 93.4
     }
   ],
   "AFP": [
     {
-      "nombre": "Retiro N",
-      "km": -0.019
-    },
-    {
-      "nombre": "Retiro Pasajeros FCGSM",
-      "km": -0.019
-    },
-    {
-      "nombre": "Puente Pacífico",
-      "km": 6.208
+      "nombre": "Retiro",
+      "km": 1.1
     },
     {
       "nombre": "Palermo",
-      "km": 6.3
+      "km": 3.5
     },
     {
-      "nombre": "Empalme Córdoba",
-      "km": 7.7
+      "nombre": "Belgrano C",
+      "km": 5.2
     },
     {
-      "nombre": "Chacarita",
-      "km": 8.8
+      "nombre": "Núñez",
+      "km": 6.8
     },
     {
-      "nombre": "La Paternal",
-      "km": 10.7
+      "nombre": "Rivadavia",
+      "km": 8.1
     },
     {
-      "nombre": "Villa del Parque",
-      "km": 13.3
+      "nombre": "Colegiales",
+      "km": 9.1
     },
     {
-      "nombre": "Devoto",
-      "km": 15.0
+      "nombre": "Belgrano R",
+      "km": 10.5
     },
     {
-      "nombre": "Saenz Peña",
-      "km": 16.4
+      "nombre": "Coghlan",
+      "km": 11.6
     },
     {
-      "nombre": "Santo Lugares",
-      "km": 17.0
+      "nombre": "Drago",
+      "km": 12.0
     },
     {
-      "nombre": "Patio Alianza",
-      "km": 17.6
+      "nombre": "Villa Urquiza",
+      "km": 13.2
     },
     {
-      "nombre": "Caseros",
-      "km": 19.7
+      "nombre": "Pueyrredón",
+      "km": 14.6
     },
     {
-      "nombre": "El Palomar",
-      "km": 22.6
+      "nombre": "Miguelete",
+      "km": 16.0
     },
     {
-      "nombre": "Hurlingham",
-      "km": 26.4
+      "nombre": "San Martín",
+      "km": 17.7
     },
     {
-      "nombre": "William C. Morris",
-      "km": 29.0
+      "nombre": "San Andrés",
+      "km": 18.9
     },
     {
-      "nombre": "Bella Vista",
-      "km": 32.1
+      "nombre": "Malaver",
+      "km": 19.9
     },
     {
-      "nombre": "Muñiz",
-      "km": 34.3
-    },
-    {
-      "nombre": "San Miguel",
-      "km": 35.5
-    },
-    {
-      "nombre": "Jose C. Paz",
-      "km": 40.0
-    },
-    {
-      "nombre": "Sol Y Verde",
-      "km": 45.1
-    },
-    {
-      "nombre": "Presidente Derqui",
-      "km": 48.6
-    },
-    {
-      "nombre": "Villa Astolfi",
-      "km": 52.35
-    },
-    {
-      "nombre": "Pilar",
-      "km": 55.4
+      "nombre": "Villa Ballester",
+      "km": 21.9
     }
   ],
   "AIP": [
@@ -3258,66 +3238,6 @@
     }
   ],
   "SN1": [
-    {
-      "nombre": "Retiro",
-      "km": 3.1
-    },
-    {
-      "nombre": "Empalme Maldonado",
-      "km": 5.7
-    },
-    {
-      "nombre": "Colegiales",
-      "km": 9.0
-    },
-    {
-      "nombre": "Empalme Coghlam",
-      "km": 11.3
-    },
-    {
-      "nombre": "Km. 16",
-      "km": 15.9
-    },
-    {
-      "nombre": "Villa Ballester",
-      "km": 21.8
-    },
-    {
-      "nombre": "Bancalari",
-      "km": 30.2
-    },
-    {
-      "nombre": "Gral. Pacheco",
-      "km": 33.3
-    },
-    {
-      "nombre": "Benavidez",
-      "km": 41.1
-    },
-    {
-      "nombre": "Ing. Maschwitz",
-      "km": 46.8
-    },
-    {
-      "nombre": "Escobar",
-      "km": 53.3
-    },
-    {
-      "nombre": "Empalme a Casilda",
-      "km": 65.8
-    },
-    {
-      "nombre": "Ing. R. Otamendi",
-      "km": 71.7
-    },
-    {
-      "nombre": "Campana",
-      "km": 81.3
-    },
-    {
-      "nombre": "Zarate",
-      "km": 93.3
-    },
     {
       "nombre": "Las Palmas",
       "km": 104.7
