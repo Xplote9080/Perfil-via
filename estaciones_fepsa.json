@@ -83,6 +83,10 @@
   ],
   "32": [
     {
+      "nombre": "Membrillar",
+      "km": 223.2
+    },
+    {
       "nombre": "O'Higgins",
       "km": 231.5
     },
@@ -125,6 +129,10 @@
     {
       "nombre": "E. B. Perkins",
       "km": 322.4
+    },
+    {
+      "nombre": "Alberdi",
+      "km": 336.1
     },
     {
       "nombre": "Iriarte",
@@ -235,6 +243,10 @@
     {
       "nombre": "Paunero",
       "km": 640.0
+    },
+    {
+      "nombre": "Justo Daract",
+      "km": 654.4
     }
   ],
   "34": [
@@ -393,6 +405,10 @@
     {
       "nombre": "Paradero",
       "km": 2.719
+    },
+    {
+      "nombre": "Alto Verde",
+      "km": 1005.8
     },
     {
       "nombre": "Ing. Giagnoni",
@@ -597,6 +613,26 @@
   ],
   "52": [
     {
+      "nombre": "M. J. Orellano",
+      "km": 153.1
+    },
+    {
+      "nombre": "Baquier",
+      "km": 194.3
+    },
+    {
+      "nombre": "Santa Eleodora",
+      "km": 215.7
+    },
+    {
+      "nombre": "Piedritas",
+      "km": 243.8
+    },
+    {
+      "nombre": "Eduardo Bunge",
+      "km": 263.2
+    },
+    {
       "nombre": "Empalme a Rufino",
       "km": 293.0
     },
@@ -627,12 +663,60 @@
   ],
   "53": [
     {
+      "nombre": "Huinca Renancó",
+      "km": 374.3
+    },
+    {
       "nombre": "Cañada Verde",
       "km": 394.4
     },
     {
       "nombre": "Empalme a Justo Daract",
       "km": 394.79
+    },
+    {
+      "nombre": "La Nacional",
+      "km": 426.0
+    },
+    {
+      "nombre": "Buena Esperanza",
+      "km": 457.1
+    },
+    {
+      "nombre": "Fortín",
+      "km": 482.3
+    },
+    {
+      "nombre": "Batavia",
+      "km": 498.1
+    },
+    {
+      "nombre": "Coronel Segovia",
+      "km": 518.4
+    },
+    {
+      "nombre": "Nahuel",
+      "km": 543.1
+    },
+    {
+      "nombre": "Colonia Calzada",
+      "km": 568.9
+    },
+    {
+      "nombre": "Navia",
+      "km": 583.1
+    },
+    {
+      "nombre": "Corral",
+      "km": 627.4
+    },
+    {
+      "nombre": "Ovejería",
+      "km": 647.1
+    },
+    {
+      "nombre": "Goyco",
+      "km": 684.2
     }
   ],
   "54": [
@@ -655,6 +739,10 @@
     {
       "nombre": "Hipólito Buchardo",
       "km": 292.7
+    },
+    {
+      "nombre": "Rufino",
+      "km": 421.0
     }
   ],
   "59": [
@@ -679,12 +767,20 @@
       "km": 64.5
     },
     {
+      "nombre": "Viamonte",
+      "km": 68.8
+    },
+    {
       "nombre": "Paradero El Pampero",
       "km": 79.819
     },
     {
       "nombre": "Modestino Pizarro",
       "km": 94.0
+    },
+    {
+      "nombre": "La Carlota",
+      "km": 114.0
     },
     {
       "nombre": "Empalme a Cañada Verde",
@@ -696,6 +792,38 @@
     }
   ],
   "62": [
+    {
+      "nombre": "El Rastreador",
+      "km": 54.0
+    },
+    {
+      "nombre": "Huanchilla",
+      "km": 63.0
+    },
+    {
+      "nombre": "Monte Maíz",
+      "km": 87.1
+    },
+    {
+      "nombre": "Adelia María",
+      "km": 99.5
+    },
+    {
+      "nombre": "San Basilio",
+      "km": 132.0
+    },
+    {
+      "nombre": "Los Jagüeles",
+      "km": 160.0
+    },
+    {
+      "nombre": "Sampacho",
+      "km": 181.1
+    },
+    {
+      "nombre": "Laboulaye",
+      "km": 485.3
+    },
     {
       "nombre": "Pedernera",
       "km": 667.9
@@ -727,8 +855,36 @@
   ],
   "73": [
     {
+      "nombre": "Agustina",
+      "km": 13.3
+    },
+    {
+      "nombre": "Fortín Tiburcio",
+      "km": 27.4
+    },
+    {
+      "nombre": "Arenales",
+      "km": 45.5
+    },
+    {
+      "nombre": "Arribeños",
+      "km": 54.4
+    },
+    {
+      "nombre": "Teodelina",
+      "km": 67.7
+    },
+    {
+      "nombre": "Villa Cañas",
+      "km": 87.2
+    },
+    {
       "nombre": "Empalme FCDFS",
       "km": 99.002
+    },
+    {
+      "nombre": "Santa Isabel",
+      "km": 102.4
     },
     {
       "nombre": "Manuel J. García",
@@ -3103,8 +3259,60 @@
   ],
   "SN1": [
     {
+      "nombre": "Retiro",
+      "km": 3.1
+    },
+    {
+      "nombre": "Empalme Maldonado",
+      "km": 5.7
+    },
+    {
+      "nombre": "Colegiales",
+      "km": 9.0
+    },
+    {
+      "nombre": "Empalme Coghlam",
+      "km": 11.3
+    },
+    {
+      "nombre": "Km. 16",
+      "km": 15.9
+    },
+    {
+      "nombre": "Villa Ballester",
+      "km": 21.8
+    },
+    {
+      "nombre": "Bancalari",
+      "km": 30.2
+    },
+    {
+      "nombre": "Gral. Pacheco",
+      "km": 33.3
+    },
+    {
+      "nombre": "Benavidez",
+      "km": 41.1
+    },
+    {
+      "nombre": "Ing. Maschwitz",
+      "km": 46.8
+    },
+    {
+      "nombre": "Escobar",
+      "km": 53.3
+    },
+    {
       "nombre": "Empalme a Casilda",
       "km": 65.8
+    },
+    {
+      "nombre": "Ing. R. Otamendi",
+      "km": 71.7
+    },
+    {
+      "nombre": "Campana",
+      "km": 81.3
     },
     {
       "nombre": "Zarate",
@@ -3121,6 +3329,10 @@
     {
       "nombre": "Atucha",
       "km": 120.7
+    },
+    {
+      "nombre": "Alsina",
+      "km": 133.5
     },
     {
       "nombre": "Baradero",
